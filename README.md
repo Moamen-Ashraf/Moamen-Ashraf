@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     
   </li>
   <li>
-    <g-emoji class="g-emoji" alias="happy-emoji">💡</g-emoji>Proficient in <code>Problem-Solving</code> with a focus on algorithmic challenges,<br> having solved numerous problems on popular platforms including<br><a href="https://codeforces.com/profile/Momen_Ashraf" style="color: black; font-weight: bold; text-decoration: none;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'"><b><code>Codeforces</code></b></a>
+    <g-emoji class="g-emoji" alias="happy-emoji">💡</g-emoji>Proficient in <code>Problem-Solving</code> with a focus on algorithmic challenges, having solved numerous problems on popular platforms including<br><a href="https://codeforces.com/profile/Momen_Ashraf" style="color: black; font-weight: bold; text-decoration: none;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'"><b><code>Codeforces</code></b></a>
 , <a href="https://vjudge.net/user/Momen_Ashraf" style="color: black; font-weight: bold; text-decoration: none;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'"><b><code>Virtual Judge</code></b></a>, and <a href="https://leetcode.com/Momen-Ashraf/" style="color: black; font-weight: bold; text-decoration: none;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'"><b><code>LeetCode</code></b></a>.
   </li>
   <li>
@@ -156,13 +156,14 @@ Here are some ideas to get you started:
   </li>
 </ul>
 
-<br>  
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
  <br>
 
  <h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a><themed-picture data-catalyst-inline="true" data-catalyst=""><picture><img src="https://camo.githubusercontent.com/be1c004d4c1c353f3d615a59d0b6a50df0ff1d46426d09e6a8a841994baee775/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5735656f5a485070557839736170523065752f67697068792e676966" alt="Github stats" width="25" height="25">
 </picture></themed-picture> <strong> Github Stats</strong></h2>
- 
+ <br>
+   
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <div >
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moamen-ashraf&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="moamen-ashraf" />
