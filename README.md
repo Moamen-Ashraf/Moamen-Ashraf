@@ -38,11 +38,11 @@ Here are some ideas to get you started:
     
   </li>
   <li>
-    <g-emoji class="g-emoji" alias="happy-emoji">💡</g-emoji>Proficient in <code>Problem-Solving</code> with a focus on algorithmic challenges, having solved numerous problems on popular platforms including<br><a href="https://codeforces.com/profile/Momen_Ashraf" style="color: black; font-weight: bold; text-decoration: none;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'"><b><code>Codeforces</code></b></a>
+    <g-emoji class="g-emoji" alias="happy-emoji">💡</g-emoji>Proficient in <code>Problem-Solving</code> with a focus on algorithmic challenges, having solved numerous problems on <br>popular platforms including<br><a href="https://codeforces.com/profile/Momen_Ashraf" style="color: black; font-weight: bold; text-decoration: none;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'"><b><code>Codeforces</code></b></a>
 , <a href="https://vjudge.net/user/Momen_Ashraf" style="color: black; font-weight: bold; text-decoration: none;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'"><b><code>Virtual Judge</code></b></a>, and <a href="https://leetcode.com/Momen-Ashraf/" style="color: black; font-weight: bold; text-decoration: none;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'"><b><code>LeetCode</code></b></a>.
   </li>
   <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>C++ , Python , Problem Solving</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <code>C++</code> , <code>Python</code> , <code>Problem Solving</code></p>
 </li>
   <li>
     <p><g-emoji class="g-emoji" alias="happy-emoji">😊</g-emoji> I’m currently open for an <code>Internship</code>.</p>
