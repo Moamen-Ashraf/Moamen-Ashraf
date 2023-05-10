@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 <h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a><themed-picture data-catalyst-inline="true" data-catalyst=""><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px" style="visibility:visible;max-width:100%;"></picture></themed-picture> <strong>About me</strong></h2>
 
-<img align="right" height="300" alt="GIF" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" height="300" alt="GIF" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; display: inline-block; padding-top: 30px;" data-target="animated-image.originalImage">
 <br>
   
 <ul dir="auto">
