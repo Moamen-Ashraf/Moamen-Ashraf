@@ -50,14 +50,13 @@
 
 ```python
 class MomenAshraf:
-    location   = "Cairo, Egypt 🇪🇬"
+    location   = "Giza, Egypt 🇪🇬"
     degree     = "B.Sc. Computer Science — Fayoum University (2024)"
     role       = "Aspiring Data Engineer"
     focus      = "Learning Data Engineering · Applying Projects · Mastering Big Data"
     stack      = ["Python", "SQL", "Spark", "Hadoop", "Airflow", "Power BI"]
     pipeline   = "Raw Data → Ingestion → Processing → Storage → Visualization"
     currently  = "Actively seeking Data Engineer roles in Egypt 🔍"
-    fun_fact   = "I read 'Fundamentals of Data Engineering' for fun 📖"
 ```
 
 > *"Don't just analyze data — engineer the systems that make analysis possible."*
