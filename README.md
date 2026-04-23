@@ -4,7 +4,9 @@
 <!--              CUSTOM HEADER IMAGE                       -->
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
-<img src="./Github_background.png" width="100%" style="border-radius:12px;"/>
+<p align="center">
+  <img src="Github_background.png" width="100%" height="250px" style="object-fit: cover;" />
+</p>
 
 <br/><br/>
 
