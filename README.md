@@ -5,7 +5,7 @@
 <!-- ╚══════════════════════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="Github_background.png" width="100%" height="75%" style="object-fit: cover;" />
+  <img src="Github_background.png" width="100%" height="50%" />
 </p>
 
 <br/><br/>
