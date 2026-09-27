@@ -109,7 +109,7 @@ End-to-end data warehouse using **Medallion Architecture**, processing raw CSVs 
 
 #### 🏥 Bed Availability Prediction Model
 Flask web app using an **LSTM model** to predict hospital bed availability from historical time-series data. Full pipeline: preprocessing, feature scaling, model training with Keras/Joblib, and a results dashboard UI.
-[repo](https://github.com/Moamen-Ashraf)
+[repo](https://github.com/Moamen-Ashraf/Bed-Availability-Prediction-Model)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -122,7 +122,7 @@ Flask web app using an **LSTM model** to predict hospital bed availability from 
 
 #### 🖼️ Parallel Image Processing with MPI
 Parallel image processing application distributing workloads across multiple processors for significant speedup, using **MPI** to parallelize pixel-level operations on computationally intensive tasks.
-[repo](https://github.com/Moamen-Ashraf/parallel-image-processing-mpi)
+[repo](https://github.com/Moamen-Ashraf/Parallel-Image-Processing)
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MPI](https://img.shields.io/badge/-MPI-555555?style=flat-square)
