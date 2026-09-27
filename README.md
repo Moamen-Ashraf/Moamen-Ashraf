@@ -215,18 +215,7 @@ Organized **PostgreSQL** query solutions from DataLemur — window functions, CT
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moamen-Ashraf&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ffa3&icon_color=00ffa3&text_color=8b949e&ring_color=00ffa3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moamen-Ashraf&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ffa3&text_color=8b949e&langs_count=8"/>
-
   <br/>
-
-  <img src="https://streak-stats.demolab.com?user=Moamen-Ashraf&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00ffa3&fire=00ffa3&currStreakLabel=00ffa3&sideLabels=8b949e&dates=8b949e&stroke=1a1f2e"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moamen-Ashraf&bg_color=0d1117&color=00ffa3&line=00ffa3&point=ffffff&area=true&hide_border=true" width="95%"/>
-
 </div>
 
 ---
