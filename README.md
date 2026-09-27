@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<p align="center">📍 Giza, Egypt &nbsp;|&nbsp; 📞 +20 102 315 7993</p>
+<p align="center">📍 Giza, Egypt</p>
 
 <hr>
 
@@ -90,20 +90,6 @@
 
 <hr>
 
-### 💼 Experience
-
-**Data Analyst — Raheed** &nbsp;*(May 2026 – Present)*
-- Analyze daily sales and inventory data using Excel, Google Sheets, Power BI, and Python to support business and operational decisions
-- Build and maintain Power BI dashboards and weekly/monthly reports tracking sales trends, inventory levels, and key business KPIs
-- Clean, analyze, and visualize data with Python and Power BI, turning raw data into actionable insights for management
-- Provide inventory and sales analysis supporting stock optimization and data-driven decision-making
-- Working across 2,100+ wedding products, supporting product analytics and inventory management
-
-**Advanced Big Data Training — Orange Digital Centre (ODC)** &nbsp;*(Sep 2024 – Oct 2024)*
-- Completed an intensive Big Data program covering Hadoop, Spark, Flink, Hive, NiFi, MongoDB, PostgreSQL, and Docker with a focus on practical, project-based learning
-
-<hr>
-
 ### 🚀 Featured Projects
 
 <table>
@@ -112,6 +98,7 @@
 
 #### 🗄️ SQL Server Data Warehouse
 End-to-end data warehouse using **Medallion Architecture**, processing raw CSVs through Bronze, Silver, and Gold layers. Includes SQL-based ETL pipelines, stored procedures, and a Star Schema with fact/dimension tables and data quality checks.
+[repo](https://github.com/Moamen-Ashraf/SQL-Data-Warehouse-Project)
 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/-T--SQL-4479A1?style=flat-square)
@@ -144,12 +131,12 @@ Parallel image processing application distributing workloads across multiple pro
 </td>
 <td width="50%" valign="top">
 
-#### 📊 Big Data Pipeline
-Practical, project-based big data pipeline covering ingestion, batch and stream processing, and storage — built during the ODC Advanced Big Data Training.
+#### 🧮 DataLemur SQL Solutions
+Organized **PostgreSQL** query solutions from DataLemur — window functions, CTEs, self-joins, set operations, and keys. Structured like a real data engineer's reference library.
+[repo](https://github.com/Moamen-Ashraf/DataLemur-SQL-Solutions)
 
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white)
-![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square)
 
 </td>
 </tr>
@@ -157,18 +144,11 @@ Practical, project-based big data pipeline covering ingestion, batch and stream 
 
 <hr>
 
-### 🌱 Activities
-
-- **Problem Solving Mentor**, ICPC – Fayoum University *(Sep 2022 – Mar 2023)* — Mentored students in online competitive programming and algorithmic problem solving. [repo]
-- **Machine Learning Member**, Google Developer Student Club (GDSC) *(Oct 2022 – Jun 2023)* — Contributed to ML workshops and knowledge-sharing sessions for the university developer community. [repo]
-
-<hr>
-
 ### 📈 GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Moamen-Ashraf&show_icons=true&theme=default" alt="Momen's GitHub stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Moamen-Ashraf" alt="Momen's streak stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Moamen-Ashraf" alt="Momen's streak stats"/>
 </p>
 
 <p align="center">
