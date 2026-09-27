@@ -151,7 +151,7 @@ class MomenAshraf:
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ---
-
+<div style="display: none;">
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                   FEATURED PROJECTS                      -->
 <!-- ══════════════════════════════════════════════════════════ -->
@@ -206,7 +206,7 @@ Organized **PostgreSQL** query solutions from DataLemur — window functions, CT
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
