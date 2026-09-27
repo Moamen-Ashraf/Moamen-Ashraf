@@ -147,12 +147,12 @@ Organized **PostgreSQL** query solutions from DataLemur — window functions, CT
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Moamen-Ashraf&show_icons=true&theme=default&cache_seconds=86400" alt="Momen's GitHub stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Moamen-Ashraf&cache_seconds=86400" alt="Momen's streak stats"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Moamen-Ashraf&show_icons=true&theme=default" alt="Momen's GitHub stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Moamen-Ashraf" alt="Momen's streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moamen-Ashraf&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moamen-Ashraf&layout=compact&langs_count=8" alt="Top Languages"/>
 </p>
 
 <hr>
