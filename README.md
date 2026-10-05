@@ -32,12 +32,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Data Analyst at **Raheed**, building Power BI dashboards and automating sales/inventory reporting across 2,100+ products
-- 🌱 Currently expanding my skills into **Data Engineering** (ETL pipelines, Data Warehousing, Big Data tools)
-- 🎓 B.Sc. in Computer Science — Faculty of Computers and Artificial Intelligence, Fayoum University (2020–2024)
-- 📚 Completed **Advanced Big Data Training** at Orange Digital Centre (ODC): Hadoop, Spark, Flink, Hive, NiFi, MongoDB, PostgreSQL, Docker
-- 💬 Ask me about SQL, Power BI, ETL pipelines, or Python data analysis
-- ⚡ Fun fact: I turn messy spreadsheets into clean dashboards
+-  Software Engineer specialized in data, currently working as a Data Analyst and seeking Data Engineer opportunities
+-  Currently expanding my skills into **Data Engineering** (ETL pipelines, Data Warehousing, Big Data tools)
+-  B.Sc. in Computer Science — Faculty of Computers and Artificial Intelligence, Fayoum University (2020–2024)
+-  Completed **Advanced Big Data Training** at Orange Digital Centre (ODC): Hadoop, Spark, Flink, Hive, NiFi, MongoDB, PostgreSQL, Docker
+-  Ask me about SQL, Power BI, ETL pipelines, or Python data analysis
 
 <hr>
 
@@ -86,8 +85,20 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-**Techniques:** Exploratory Data Analysis (EDA) · Data Cleaning & Wrangling · Web Scraping · Statistics & Probability · DSA · OOP · OS · Problem Solving
+**Techniques:** Exploratory Data Analysis (EDA) · Data Cleaning & Wrangling · Web Scraping · Statistics & Probability
 
+**Software Concepts**
+<p>
+  <img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-4B8BBE?style=flat-square&logo=thealgorithms&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OOP-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/-Operating%20Systems-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Shell%20Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Unit%20Testing-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Agile-0052CC?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Problem%20Solving-success?style=flat-square"/>
+</p>
 <hr>
 
 ### 🚀 Featured Projects
