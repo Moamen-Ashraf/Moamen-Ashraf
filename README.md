@@ -32,7 +32,7 @@
 
 ### 🧑‍💻 About Me
 
--  Software Engineer specialized in data, currently working as a Data Analyst and seeking Data Engineer opportunities
+-  Software Engineer specialized in data, currently working as a Data Analyst and seeking Data Engineer opportunity
 -  Currently expanding my skills into **Data Engineering** (ETL pipelines, Data Warehousing, Big Data tools)
 -  B.Sc. in Computer Science — Faculty of Computers and Artificial Intelligence, Fayoum University (2020–2024)
 -  Completed **Advanced Big Data Training** at Orange Digital Centre (ODC): Hadoop, Spark, Flink, Hive, NiFi, MongoDB, PostgreSQL, Docker
